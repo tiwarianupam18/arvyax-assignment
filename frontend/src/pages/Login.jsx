@@ -1,5 +1,5 @@
 // Login.jsx content goes here
-import React from "react"; // 👈 ye missing hai
+import React from "react"; //
 
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
