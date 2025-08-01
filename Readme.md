@@ -9,9 +9,9 @@ The app allows users to register, log in, create/edit wellness sessions, auto-sa
 ## 🔗 Live Demo
 
 - 🔵 **Frontend**: https://your-frontend.onrender.com
-- 🟢 **Backend API**: https://your-backend.onrender.com
-
-> 📝 Replace the above links with your actual Render deployment URLs.
+- 🟢 **Backend API**: 
+https://arvyax-assignment.onrender.com/api
+> 📝 
 
 ---
 
